@@ -47,7 +47,7 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 ##Made manifest.json for the extension package in VSCode
 <img src="Made manifest.jpeg">
 ##Made the API key for Safe Browsing API from Google Cloud Console 

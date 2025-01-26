@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyBTnKDUi1jddiRqzC7qY9uAPcNmMHPwN-8";
+const API_KEY = "AIzaSyAEFNvyviyXwK0Z7atUqnyA3SlDAkorSEo";
 const SAFE_BROWSING_API = `https://safebrowsing.googleapis.com/v4/threatMatches:find?key=${API_KEY}`;
 
 chrome.webRequest.onCompleted.addListener(

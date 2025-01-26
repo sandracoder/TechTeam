@@ -48,14 +48,9 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img src="Made manifest.jpeg">
+<img src="Extension added.jpeg">
+<img src="API Key generated.jpeg">
 
 ### Project Demo
 # Video

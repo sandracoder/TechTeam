@@ -1,4 +1,4 @@
-Our project aims to develop a Chrome extension that protects users from falling victim to fake websites offering fraudulent rewards or gifts. These websites, often spread via messaging apps like WhatsApp, Telegram, or social media platforms, lure users with false promises and can lead to data theft or scams.
+<h1>Our project aims to develop a Chrome extension that protects users from falling victim to fake websites offering fraudulent rewards or gifts. These websites, often spread via messaging apps like WhatsApp, Telegram, or social media platforms, lure users with false promises and can lead to data theft or scams.</h1>
 
 The extension will:
 

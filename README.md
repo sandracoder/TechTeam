@@ -10,8 +10,14 @@
 - Member 2: Saniya V M - ST.THOMAS' COLLEGE,THRISSUR
 - Member 3: Devika P M - ST.THOMAS' COLLEGE,THRISSUR
 
-### Hosted Project Link
+### Step-by-step guide to add the NoCap extension:
+1) Download all the files except README.md in a single folder (and name it like NoCap)
+2) Open Chrome. Go to Google Chrome Controls on top-right and select Extensions. Go to Mangae Extensions.
+3) Enable Developer mode on top-right and click on Load Unpacked on the top left.
+4) Select the folder you named (NoCap).
+5) Now on the top right of the address
 Link to download the NoCap Chrome Extension:
+
 
 ### Project Description
 Our project aims to develop a Chrome extension that protects users from falling victim to fake websites offering fraudulent rewards or gifts. These websites, often spread via messaging apps like WhatsApp, Telegram, or social media platforms, lure users with false promises and can lead to data theft or scams. We plan to alert the users if they come by a fake website through our extension.

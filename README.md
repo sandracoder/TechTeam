@@ -15,20 +15,19 @@
 2) Open Chrome. Go to Google Chrome Controls on top-right and select Extensions. Go to Mangae Extensions.
 3) Enable Developer mode on top-right and click on Load Unpacked on the top left.
 4) Select the folder you named (NoCap).
-5) Now on the top right of the address
-Link to download the NoCap Chrome Extension:
-
+5) Now on the top right of the address bar
+6) 
 
 ### Project Description
 Our project aims to develop a Chrome extension that protects users from falling victim to fake websites offering fraudulent rewards or gifts. These websites, often spread via messaging apps like WhatsApp, Telegram, or social media platforms, lure users with false promises and can lead to data theft or scams. We plan to alert the users if they come by a fake website through our extension.
 
 ### The Problem statement
-
+Malicious websites are frequently shared via popular messaging apps like WhatsApp and Telegram, often disguised as "free gifts" or "rewards." These fraudulent sites trick users, leading to potential financial loss, identity theft, and malware infections. Despite available security tools, many users are unaware of these threats in real-time.
 
 ### The Solution
 The NoCap extension will:
 
-*Detect Fake Links: Use APIs (like PhishTank, Google Safe Browsing) and datasets of known malicious URLs to identify harmful websites in real-time.
+*Detect Fake Links: Use Google Safe Browsing API to identify harmful websites in real-time.
 
 *Analyze Content Patterns: Scan websites for phishing patterns, such as overly capitalized comments, generic usernames, or common scam phrases like “I got the gift today.”
 
@@ -40,19 +39,10 @@ The NoCap extension will:
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- HTML,JavaScript
+- HTML, CSS, JavaScript, JSON
 - Chrome Extension
-- Safe Browsing API
-- GitHub
-
-
-### Implementation
-For Software:
-# Installation
-
-
-# Run
-
+- Safe Browsing API by Google Cloud Console
+- GitHub, VS Code
 
 ### Project Documentation
 For Software:

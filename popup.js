@@ -2,7 +2,7 @@ document.getElementById("checkNow").addEventListener("click", async () => {
     const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
     const url = tab.url;
 
-const API_KEY = 'YOUR_API_KEY';
+const API_KEY = 'AIzaSyBTnKDUi1jddiRqzC7qY9uAPcNmMHPwN-8';
 const SAFE_BROWSING_API = `https://safebrowsing.googleapis.com/v4/threatMatches:find?key=${API_KEY}`;
 
 async function checkUrlWithGoogleSafeBrowsing(url) {

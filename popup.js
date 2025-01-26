@@ -8,14 +8,14 @@ const SAFE_BROWSING_API = `https://safebrowsing.googleapis.com/v4/threatMatches:
 async function checkUrlWithGoogleSafeBrowsing(url) {
   // Check if the URL uses HTTPS
   if (!url.startsWith('https://')) {
-    console.log('⚠️ The website does not use HTTPS.');
+    console.log(' The website does not use HTTPS.');
     return;
   }
 
   // Check if the SSL certificate is valid (basic check)
   const sslValid = await checkSSL(url);
   if (!sslValid) {
-    console.log('⚠️ The SSL certificate for this website is not valid.');
+    console.log(' The SSL certificate for this website is not valid.');
     return;
   }
 
@@ -50,9 +50,9 @@ async function checkUrlWithGoogleSafeBrowsing(url) {
     console.log('Parsed JSON:', data);
 
     if (data.matches) {
-      console.log('⚠️ This URL is flagged as unsafe.');
+      console.log(' This URL is flagged as unsafe.');
     } else {
-      console.log('✅ This URL seems safe.');
+      console.log(' This URL seems safe.');
     }
   } catch (error) {
     console.error('Failed to parse response as JSON:', error);

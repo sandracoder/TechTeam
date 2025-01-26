@@ -56,7 +56,7 @@ For Software:
 <img src="Extension added.jpeg">
 
 ## Team Contributions
-- Saniya V M: Maintaining GitGub
+- Saniya V M: Maintaining GitHub
 - Devika P M: Set up API key
 - Aghila C C: Extension files 
 

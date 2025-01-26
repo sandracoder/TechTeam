@@ -48,20 +48,16 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
+##Made manifest.json for the extension package in VSCode
 <img src="Made manifest.jpeg">
-<img src="Extension added.jpeg">
+##Made the API key for Safe Browsing API from Google Cloud Console 
 <img src="API Key generated.jpeg">
-
-### Project Demo
-# Video
-*Explain what the video demonstrates*
-
-# Additional Demos
-
+##Added the entire files in Chrome extensions as a package
+<img src="Extension added.jpeg">
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Saniya V M: Maintaining GitGub
+- Devika P M: Set up API key
+- Aghila C C: Extension files 
 
 

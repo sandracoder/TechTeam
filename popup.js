@@ -73,6 +73,5 @@ async function checkSSL(url) {
   }
 }
 
-// Example usage
-const url = 'https://example.com';  // Replace with the URL you want to check
-checkUrlWithGoogleSafeBrowsing(url);
+
+
